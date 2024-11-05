@@ -1,0 +1,11 @@
+aaaaacabcd
+
+
+// Otros ejemplos.
+cabcd
+bbbbcabcd
+abcd
+
+//
+En el caso de querer eliminar ? solo hay que borrar la ramas que 
+dirigen de q8 a q9 y (q10) .
