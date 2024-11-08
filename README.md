@@ -1,7 +1,7 @@
 <h1> AFD </h1>
 
 ## Diseño de Compiladores -> AFD de 3 expresiones regulares.
-  Solo registra la primera cadena, en caso de querer leer todo un archivo se puede utilizar el #include <vector>
+  Solo registra la primera cadena, en caso de querer leer todo un archivo se puede utilizar el #include vector
 
  while (getline(inputFile, line)) {
  lines.push_back(line);
